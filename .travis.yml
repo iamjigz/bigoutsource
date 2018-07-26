@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-  - "9"
+  - "10"
 dist: trusty
 sudo: false
 
@@ -12,12 +12,18 @@ cache:
   directories:
     - node_modules
 
-install:
-  - npm install -g yarn
+before_script:
+   - npm install -g --silent @angular/cli
 
 script:
-  - yarn lint
-  - yarn build --base-href https://iamjigz.github.io/bigoutsource/
+  - npm run lint
+  - ng build --prod --base-href https://iamjigz.github.io/bigoutsource/
+
+notifications:
+  email:
+    on_failure: change
+    on_success: change
+
 deploy:
   provider: pages
   skip_cleanup: true
