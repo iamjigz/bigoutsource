@@ -1,12 +1,16 @@
 # Bigoutsource
 
-[![Dependency Status](https://david-dm.org/iamjigz/bigoutsource.svg)](https://david-dm.org/iamjigz/bigoutsource)
-[![devDependency Status](https://david-dm.org/iamjigz/bigoutsource/dev-status.svg)](https://david-dm.org/iamjigz/bigoutsource#info=devDependencies)
-[![peerDependency Status](https://david-dm.org/iamjigz/bigoutsource/peer-status.svg)](https://david-dm.org/iamjigz/bigoutsource#info=peerDependencies)
-
-[![Commit Activity](https://img.shields.io/github/commit-activity/y/iamjigz/bigoutsource.svg)](https://img.shields.io/github/commit-activity/y/iamjigz/bigoutsource.svg)
-[![Top Language](https://img.shields.io/github/languages/top/iamjigz/bigoutsource.svg)](https://img.shields.io/github/languages/top/iamjigz/bigoutsource.svg)
+[![Dependency Status](https://david-dm.org/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://david-dm.org/iamjigz/bigoutsource)
+[![devDependency Status](https://david-dm.org/iamjigz/bigoutsource/dev-status.svg?longCache=true&style=for-the-badge)](https://david-dm.org/iamjigz/bigoutsource#info=devDependencies)
+[![peerDependency Status](https://david-dm.org/iamjigz/bigoutsource/peer-status.svg?longCache=true&style=for-the-badge)](https://david-dm.org/iamjigz/bigoutsource#info=peerDependencies)
 [![Travis Build Status](https://travis-ci.com/iamjigz/bigoutsource.png?branch=master)](https://travis-ci.com/iamjigz/bigoutsource)
+
+[![Issues](https://img.shields.io/github/issues/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://img.shields.io/github/issues/iamjigz/bigoutsource.svg)
+[![Open PR](https://img.shields.io/github/issues-pr/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://img.shields.io/github/issues-pr/iamjigz/bigoutsource.svg)
+
+[![Commit Activity](https://img.shields.io/github/commit-activity/y/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://img.shields.io/github/commit-activity/y/iamjigz/bigoutsource.svg)
+[![Last Commit](https://img.shields.io/github/last-commit/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://img.shields.io/github/last-commit/iamjigz/bigoutsource.svg)
+[![Top Language](https://img.shields.io/github/languages/top/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://img.shields.io/github/languages/top/iamjigz/bigoutsource.svg)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.0.
 
@@ -33,3 +37,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+[![License](https://img.shields.io/github/license/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://img.shields.io/github/license/iamjigz/bigoutsource)
+[![forthebadge](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
