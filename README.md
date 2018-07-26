@@ -1,5 +1,13 @@
 # Bigoutsource
 
+[![Dependency Status](https://david-dm.org/iamjigz/bigoutsource.svg)](https://david-dm.org/iamjigz/bigoutsource)
+[![devDependency Status](https://david-dm.org/iamjigz/bigoutsource/dev-status.svg)](https://david-dm.org/iamjigz/bigoutsource#info=devDependencies)
+[![peerDependency Status](https://david-dm.org/iamjigz/bigoutsource/peer-status.svg)](https://david-dm.org/iamjigz/bigoutsource#info=peerDependencies)
+
+[![Commit Activity](https://img.shields.io/github/commit-activity/y/iamjigz/bigoutsource.svg)](https://img.shields.io/github/commit-activity/y/iamjigz/bigoutsource.svg)
+[![Top Language](https://img.shields.io/github/languages/top/iamjigz/bigoutsource.svg)](https://img.shields.io/github/languages/top/iamjigz/bigoutsource.svg)
+[![Travis Build Status](https://travis-ci.com/iamjigz/bigoutsource.png?branch=master)](https://travis-ci.com/iamjigz/bigoutsource)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.0.
 
 ## Development server
