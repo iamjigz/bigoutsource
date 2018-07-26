@@ -10,6 +10,7 @@
 
 [![Commit Activity](https://img.shields.io/github/commit-activity/y/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://img.shields.io/github/commit-activity/y/iamjigz/bigoutsource.svg)
 [![Last Commit](https://img.shields.io/github/last-commit/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://img.shields.io/github/last-commit/iamjigz/bigoutsource.svg)
+
 [![Top Language](https://img.shields.io/github/languages/top/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://img.shields.io/github/languages/top/iamjigz/bigoutsource.svg)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.0.
@@ -39,7 +40,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 [![License](https://img.shields.io/github/license/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://img.shields.io/github/license/iamjigz/bigoutsource)
+
 [![forthebadge](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
+
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
