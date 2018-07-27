@@ -1,8 +1,16 @@
 language: node_js
 node_js:
-  - "10"
+  - 8.9
+
 dist: trusty
 sudo: false
+
+addons:
+  apt:
+    sources:
+      - google-chrome
+    packages:
+      - google-chrome-stable
 
 branches:
   only:
@@ -13,21 +21,28 @@ cache:
     - node_modules
 
 before_script:
-   - npm install -g --silent @angular/cli
+   - npm install
+   - npm install -g angular-cli-ghpages
 
 script:
   - npm run lint
-  - ng build --prod --base-href https://iamjigz.github.io/bigoutsource/
+  - ng build --prod --base-href /
+  # - ng build --prod --base-href https://iamjigz.github.io/bigoutsource/
 
 notifications:
   email:
     on_failure: change
     on_success: change
 
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN
-  local_dir: dist/bigoutsource
-  on:
-    branch: master
+after_success:
+  - if [ "$TRAVIS_PULL_REQUEST" = "false" ] && [ "$TRAVIS_BRANCH" = "master" ]; then
+      angular-cli-ghpages --repo=https://GH_TOKEN@$GH_REPO --name="New release" --email=$EMAIL;
+    fi
+
+# deploy:
+#   provider: pages
+#   skip_cleanup: true
+#   github_token: $GITHUB_TOKEN
+#   local_dir: dist/bigoutsource
+#   on:
+#     branch: master
