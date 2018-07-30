@@ -26,8 +26,8 @@ before_script:
 
 script:
   - npm run lint
-  - ng build --prod --base-href /
-  # - ng build --prod --base-href https://iamjigz.github.io/bigoutsource/
+  # - ng build --prod --base-href /
+  - ng build --prod --base-href https://iamjigz.github.io/bigoutsource/
 
 notifications:
   email:
@@ -35,9 +35,7 @@ notifications:
     on_success: change
 
 after_success:
-  - if [ "$TRAVIS_PULL_REQUEST" = "false" ] && [ "$TRAVIS_BRANCH" = "master" ]; then
-      angular-cli-ghpages --repo=https://GH_TOKEN@$GH_REPO --name="New release" --email=$EMAIL;
-    fi
+  - ngh --dir dist/garryphoto --no-silent
 
 # deploy:
 #   provider: pages
