@@ -5,11 +5,11 @@
 [![peerDependency Status](https://david-dm.org/iamjigz/bigoutsource/peer-status.svg?longCache=true&style=for-the-badge)](https://david-dm.org/iamjigz/bigoutsource#info=peerDependencies)
 [![Travis Build Status](https://travis-ci.com/iamjigz/bigoutsource.png?branch=master)](https://travis-ci.com/iamjigz/bigoutsource)
 
-[![Issues](https://img.shields.io/github/issues/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://img.shields.io/github/issues/iamjigz/bigoutsource.svg)
-[![Open PR](https://img.shields.io/github/issues-pr/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://img.shields.io/github/issues-pr/iamjigz/bigoutsource.svg)
+[![Issues](https://img.shields.io/github/issues/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://github.com/iamjigz/bigoutsource/issues)
+[![Open PR](https://img.shields.io/github/issues-pr/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://github.com/iamjigz/bigoutsource/pulls)
 
-[![Commit Activity](https://img.shields.io/github/commit-activity/y/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://img.shields.io/github/commit-activity/y/iamjigz/bigoutsource.svg)
-[![Last Commit](https://img.shields.io/github/last-commit/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://img.shields.io/github/last-commit/iamjigz/bigoutsource.svg)
+[![Commit Activity](https://img.shields.io/github/commit-activity/y/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://github.com/iamjigz/bigoutsource/graphs/commit-activity)
+[![Last Commit](https://img.shields.io/github/last-commit/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://github.com/iamjigz/bigoutsource/graphs/code-frequency)
 
 [![Top Language](https://img.shields.io/github/languages/top/iamjigz/bigoutsource.svg?longCache=true&style=for-the-badge)](https://img.shields.io/github/languages/top/iamjigz/bigoutsource.svg)
 
